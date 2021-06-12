@@ -1,0 +1,7 @@
+C:\Users\Milotić\source\repos\KlasaD-ZAD2\KlasaD-ZAD2\bin\Debug\KlasaD-ZAD2.exe.config
+C:\Users\Milotić\source\repos\KlasaD-ZAD2\KlasaD-ZAD2\bin\Debug\KlasaD-ZAD2.exe
+C:\Users\Milotić\source\repos\KlasaD-ZAD2\KlasaD-ZAD2\bin\Debug\KlasaD-ZAD2.pdb
+C:\Users\Milotić\source\repos\KlasaD-ZAD2\KlasaD-ZAD2\obj\Debug\KlasaD-ZAD2.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\KlasaD-ZAD2\KlasaD-ZAD2\obj\Debug\KlasaD-ZAD2.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\KlasaD-ZAD2\KlasaD-ZAD2\obj\Debug\KlasaD-ZAD2.exe
+C:\Users\Milotić\source\repos\KlasaD-ZAD2\KlasaD-ZAD2\obj\Debug\KlasaD-ZAD2.pdb
